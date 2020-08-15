@@ -1,2 +1,4 @@
 # MERN-AUTH-BOILERPALTE
- qew
+Npm install 
+cd view  
+npm install
